@@ -1,6 +1,6 @@
 let i = 0; 
 // 5 x 0 = 0
- // 5 x 1 = 5 
+// 5 x 1 = 5 
 let n = Number(prompt("Informe um número"));
 while(i <= 10 ) 
   
