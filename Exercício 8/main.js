@@ -1,4 +1,3 @@
-
 let numero = parseInt(prompt("Digite um número inteiro positivo:"));
 
 function ehPrimo(num) {
